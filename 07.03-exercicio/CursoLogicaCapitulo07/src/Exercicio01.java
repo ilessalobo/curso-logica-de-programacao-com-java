@@ -13,7 +13,7 @@ public class Exercicio01 {
 		}
 		
 		
-		System.out.println("Suas tarefas são: ");
+		System.out.println("\nSuas tarefas são: ");
 		for(int i = 0; i < tarefas.length; i++) {
 			System.out.println(i + ": " + tarefas[i]);
 		}
